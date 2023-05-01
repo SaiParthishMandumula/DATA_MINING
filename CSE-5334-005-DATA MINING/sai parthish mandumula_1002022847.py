@@ -1,5 +1,4 @@
-# name: Sai Parthish Mandumula.
-# Student id:1002022847.
+
 
 import nltk #importing natural language took kit.
 import math #importing math function for math calculations.
